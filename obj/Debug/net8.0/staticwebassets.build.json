@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TXEsDbeOJxrowBGfJUZH7QVOktH0KWu6KqDkGwmwWDQ=",
+  "Source": "dotnetapitut",
+  "BasePath": "_content/dotnetapitut",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
